@@ -18,4 +18,4 @@ I have worked on machine learning, IoT and algorithms, mostly in team projects. 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/daniel-holst-pedersen-38a883338/)
+[LinkedIn](https://www.linkedin.com/in/daniel-holst-pedersen/)
