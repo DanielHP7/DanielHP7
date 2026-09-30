@@ -16,6 +16,12 @@ I have worked on machine learning, IoT and algorithms, mostly in team projects. 
 | [Plant Moisture Monitor](https://github.com/DanielHP7/plant-moisture-monitor) | ESP32 soil sensor that streams readings over MQTT to an animated flower in the browser | ESP32, C++, MQTT, p5.js |
 | [Subject Module Scheduling](https://github.com/DanielHP7/subject-module-scheduling) | Graph colouring to find how few timeslots Roskilde University's subject modules need | Java, graph algorithms |
 
+### Other projects
+
+- [WITSocial](https://github.com/DanielHP7/witsocial): a small social media platform in PHP
+- [Wine Quality EDA](https://github.com/DanielHP7/wine-quality-eda): exploratory data analysis in Python
+- [Student Course Selection](https://github.com/DanielHP7/student-course-selection): a JavaFX app backed by SQLite through JDBC
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/daniel-holst-pedersen/)
